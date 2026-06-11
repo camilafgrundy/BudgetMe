@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291955483567",
+    "project_id": "budgetme-5b5ad",
+    "storage_bucket": "budgetme-5b5ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291955483567:android:07bfef4d12e1a9daaf455a",
+        "android_client_info": {
+          "package_name": "com.ucsm.budgetme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7HNSMF16zeJsvN0zri6rog6o0eSzz8qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
